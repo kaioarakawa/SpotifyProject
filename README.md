@@ -30,6 +30,9 @@ Clone o repositório
 
 # Entra na pasta da auth-api
 cd auth-api
+lembre de colocar o id do cliente e o id secret id no index.js
+os dois são encontrados dentro da pagina dev do spotify: 
+https://developer.spotify.com/dashboard/applications
 
 # Instala as dependências
 npm install
