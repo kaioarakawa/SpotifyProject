@@ -1,0 +1,21 @@
+{
+  " autor " : " Spotify " ,
+  " nome " : " web-api-auth-examples " ,
+  " descrição " : " Exemplos básicos de fluxos de autorização do Spotify por meio do OAuth 2 " ,
+  " versão " : "1.0.0" ,
+  " scripts " : {
+    " dev " : " nodemon server.js " ,
+    " start " : " node server.js "
+  },
+  " dependências " : {
+    " analisador de cookies " : " 1.3.2 " ,
+    " cors " : " ^ 2.8.4 " ,
+    " dotenv " : " ^ 8.2.0 " ,
+    " expresso " : " ~ 4.16.0 " ,
+    " querystring " : " ~ 0.2.0 " ,
+    " pedido " : " ~ 2.83.0 "
+  },
+  " devDependencies " : {
+    " nodemon " : " ^ 2.0.2 "
+  }
+}
