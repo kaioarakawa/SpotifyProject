@@ -11,14 +11,14 @@ Consultar suas playlists
 Consultar seus artistas e álbuns salvos
 Adicionar playlists
 
-🛠 Tecnologias utilizadas
-⚛ React - Single page application
-⚛ React Router - Controle de rotas
-⚛ Redux - Controle de estado da track atual
-⚛ React redux - Controle de estado da track atual
-🎵 React audio player - Player de áudio
-🤙 React icons - Ícones da aplicação
-📡 Axios - Comunicação com a API do Spotify
+ Tecnologias utilizadas
+ React - Single page application
+ React Router - Controle de rotas
+ Redux - Controle de estado da track atual
+ React redux - Controle de estado da track atual
+ React audio player - Player de áudio
+ React icons - Ícones da aplicação
+ Axios - Comunicação com a API do Spotify
 
 
 Pré-requisitos
@@ -26,7 +26,6 @@ Git
 NodeJS
 NPM
 
-Rodando a auth-api
 Clone o repositório
 
 # Entra na pasta da auth-api
