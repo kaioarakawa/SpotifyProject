@@ -50,4 +50,4 @@ npm install
 # Inicia a aplicação
 npm start
 
-# Após isso a aplicação pode ser utilizada acessando o endereço http://localhost:3000
+Após isso a aplicação pode ser utilizada acessando o endereço http://localhost:3000
